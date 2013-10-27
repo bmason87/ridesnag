@@ -6,8 +6,8 @@
 {% endblock %}
 {% block content %}
 
-<div>
-    <img id="login" src="/img/loginlogin.png" > 
+<div width = 100%>
+    <img id="login" class= "centered" src="/img/loginlogin.png" width=134 height=33 > 
   
    
 </div>    
